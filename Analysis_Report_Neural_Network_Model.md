@@ -7,7 +7,7 @@ The dataset underwent preprocessing to eliminate irrelevant information, leading
 
 ### Compiling, Training, and Evaluation the Model 
 A Neural Network was employed for each model with multiple layers, totaling three layers in all. The number of hidden nodes in each layer was determined by the number of features present in the dataset.
-![image](https://github.com/HSaleem352/deep-learning-challenge/assets/60048058/62849d22-6eeb-44d3-82e1-890fb61a973c)
+![image](https://github.com/HSaleem352/deep-learning-challenge/assets/60048058/a87d875f-7ebb-46b9-9cb2-da37644b0614)
 
 The training model, consisting of three layers, encompassed a total of 477 parameters. In the initial trial, it achieved a performance of approximately 72%, falling slightly short of the desired 75% threshold.
 
