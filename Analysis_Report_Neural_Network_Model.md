@@ -14,3 +14,12 @@ The training model, consisting of three layers, encompassed a total of 477 param
 ![image](https://github.com/HSaleem352/deep-learning-challenge/assets/60048058/2a298d86-2e83-41be-b1b9-7bd7615fc618)
 ![image](https://github.com/HSaleem352/deep-learning-challenge/assets/60048058/080a7347-af49-425f-bedf-2b69aacca524)
 
+### Optimization
+In the second iteration, 'NAME' was reintroduced into the dataset, resulting in an improved performance of 79%, exceeding the target by 4%. The model comprised a total of 3,298 parameters.
+
+![image](https://github.com/HSaleem352/deep-learning-challenge/assets/60048058/3c2320dc-636e-4a3f-bff8-ef2207a68688)
+
+
+
+
+
