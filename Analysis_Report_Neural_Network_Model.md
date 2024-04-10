@@ -11,3 +11,6 @@ A Neural Network was employed for each model with multiple layers, totaling thre
 
 The training model, consisting of three layers, encompassed a total of 477 parameters. In the initial trial, it achieved a performance of approximately 72%, falling slightly short of the desired 75% threshold.
 
+![image](https://github.com/HSaleem352/deep-learning-challenge/assets/60048058/2a298d86-2e83-41be-b1b9-7bd7615fc618)
+![image](https://github.com/HSaleem352/deep-learning-challenge/assets/60048058/080a7347-af49-425f-bedf-2b69aacca524)
+
