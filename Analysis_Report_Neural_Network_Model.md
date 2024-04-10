@@ -19,7 +19,6 @@ In the second iteration, 'NAME' was reintroduced into the dataset, resulting in 
 
 ![image](https://github.com/HSaleem352/deep-learning-challenge/assets/60048058/3c2320dc-636e-4a3f-bff8-ef2207a68688)
 
+Deep learning models benefit from having multiple layers because they enable the machine to effectively filter inputs. Through these layers, the computer learns to predict and classify information.
 
-
-
-
+![image](https://github.com/HSaleem352/deep-learning-challenge/assets/60048058/ebca9dff-3540-4e06-96a4-73ce36541cbf)
